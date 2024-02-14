@@ -59,7 +59,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hamid-kordi&show_icons=true&include_all_commits=true&theme=radical)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-kordi&layout=compact&theme=radical&hide=Ruby,javascript,html)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-kordi&layout=compact&hide=Ruby,javascript,html)
 </div>
 
 
