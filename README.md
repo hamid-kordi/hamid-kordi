@@ -6,7 +6,7 @@
 - 🔭 Bachelor of Electrical Control Engineering[Amirkabir University of Technology](https://aut.ac.ir)  
   
 
-- 🌱 Python developer and Django developer since 2021  
+- 🌱 Python and Django developer since 2021  
   
 
 <br/>  
