@@ -2,7 +2,7 @@
 ### <div align="center">
 #### I am hamidreza</div>  
 
--[Studying] 🔭 Master's degree in computer engineering, software orientation[Iran University of Science and Technology](https://www.iust.ac.ir/en)
+- [Studying] Master's degree in computer engineering, software orientation[Iran University of Science and Technology](https://www.iust.ac.ir/en)
 
 - 🔭 Bachelor of Electrical Control Engineering[Amirkabir University of Technology](https://aut.ac.ir)  
   
