@@ -7,7 +7,7 @@
 
 - Bachelor of Electrical Control Engineering[Amirkabir University of Technology](https://aut.ac.ir)  
   
-- Backend developer since 2021  
+- Backend developer 2021-23  
   
 
 <br/>  
