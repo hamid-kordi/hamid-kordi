@@ -2,11 +2,12 @@
 ### <div align="center">
 #### I am hamidreza</div>  
 
+- DataEngineer since 2024
 - [Studying] Master's degree in computer engineering, software orientation[Iran University of Science and Technology](https://www.iust.ac.ir/en)
 
-- 🔭 Bachelor of Electrical Control Engineering[Amirkabir University of Technology](https://aut.ac.ir)  
+- Bachelor of Electrical Control Engineering[Amirkabir University of Technology](https://aut.ac.ir)  
   
-- 🌱 Backend developer since 2021  
+- Backend developer since 2021  
   
 
 <br/>  
